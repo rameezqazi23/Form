@@ -1,0 +1,83 @@
+body{
+    font-family: 'Product', Google Sans;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    /* border-style: hidden; */
+    width: fit-content;
+    
+    
+}
+
+p input, table{
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
+    text-align: left;
+    padding-right: 40px;
+    font-family: 'Product', Google Sans;
+
+    
+    
+        
+} 
+input{
+    padding: 3px;
+    
+}
+label{
+    width: 140px;
+    display: inline-block;
+    
+}
+#six{   /* Address box */
+    margin-left: 140px;
+    text-align: left;
+    /* padding: 40px;
+    margin-left: auto;
+    margin-right: auto; */
+    display: block;
+    width: 165px;
+}
+
+
+
+#thirteen{ /*  Submit & reset*/
+    text-align: center;
+    margin: 0 auto;
+    width: fit-content;
+    
+}
+#dob{
+    width: 140px;
+    display: inline-block;
+}
+h1, img{
+    
+    text-align: center;
+    align="center";
+    color: #9ACD32;
+    font-family: 'Product', Samsung Sharp Sans;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+fieldset{
+    border-radius: 15px;
+    border: hidden;
+    background-color: rgba(5, 57, 155, 0.808);
+    color: white; 
+    padding: 30px;  
+}
+a{ 
+    padding-left: 140px;   
+}
+sup{
+    color: rgba(196, 13, 13, 0.952);
+}
+
+
